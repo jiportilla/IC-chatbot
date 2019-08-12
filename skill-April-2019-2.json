@@ -1,0 +1,1545 @@
+{
+  "name": "April 2019",
+  "intents": [
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Good day"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "locations",
+      "examples": [
+        {
+          "text": "What place is the bathroom"
+        },
+        {
+          "text": "where are you guys located"
+        },
+        {
+          "text": "where is axels classroom"
+        },
+        {
+          "text": "where is reitzigs classroom"
+        },
+        {
+          "text": "where is the bus stop"
+        },
+        {
+          "text": "where are the trashcans"
+        },
+        {
+          "text": "where is the HR department"
+        },
+        {
+          "text": "where is the innovation center"
+        },
+        {
+          "text": "where can i take a dump"
+        }
+      ],
+      "description": "locations"
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you capable of?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "About you"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Another joke"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "people",
+      "examples": [
+        {
+          "text": "Does the IC have a principal"
+        },
+        {
+          "text": "who made you"
+        },
+        {
+          "text": "is there a princepal"
+        },
+        {
+          "text": "Who is Axel"
+        },
+        {
+          "text": "Who are the mentors"
+        },
+        {
+          "text": "how many people work at the IC"
+        }
+      ],
+      "description": "questions about people"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "location",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bathroom",
+          "synonyms": [
+            "toilet",
+            "washroom",
+            "restroom",
+            "lavatory",
+            "bathrooms",
+            "toilets",
+            "washrooms",
+            "loo",
+            "restrooms",
+            "lavatories",
+            "toliet",
+            "latrines",
+            "urinals"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "aerospace room",
+          "synonyms": [
+            "drone room",
+            "aeronautics lab",
+            "aeronautics",
+            "drone",
+            "aero",
+            "aerospace"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pitch room",
+          "synonyms": [
+            "presentation room",
+            "sell room"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ic",
+          "synonyms": [
+            "innovation center",
+            "you guys",
+            "you"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hr",
+          "synonyms": [
+            "Human Resources"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bus stop",
+          "synonyms": [
+            "bus stops",
+            "bus stand",
+            "bus station",
+            "buses .",
+            "bus"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "trash can",
+          "synonyms": [
+            "garbage can",
+            "garbage",
+            "trash"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "robotics lab",
+          "synonyms": [
+            "reitzigs room",
+            "robotics room"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "people",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "patty",
+          "synonyms": [
+            "Head of innovation",
+            "Quinones",
+            "Patti"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Axel",
+          "synonyms": [
+            "Reitzieg",
+            "Robotics teacher"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Beau",
+          "synonyms": [
+            "Townsend"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ivan",
+          "synonyms": [
+            "IBM mentor",
+            "Portilla"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Jake",
+          "synonyms": [
+            "Marshall",
+            "Aviation Leader"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Thom Ingram",
+          "synonyms": [
+            "Ingram",
+            "Apple Lab Manager"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tom Darcy",
+          "synonyms": [
+            "Darcy"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Professional development people",
+          "synonyms": [
+            "Drones",
+            "Peons",
+            "Grunts"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "skill_id": "79282484-b6ca-42b8-ac5d-d7dbf559f9b0",
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "title": "response_4_1556060584118",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thom is in charge of the apple lab."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:(Thom Ingram)",
+      "dialog_node": "response_4_1556060584118",
+      "previous_sibling": "response_7_1556060472380"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_9_1556060256845",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Axel is the robotics teacher."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:Axel",
+      "dialog_node": "response_9_1556060256845",
+      "previous_sibling": "response_2_1556060207401"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1556060435452",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We can him Ivan the IBM guy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:Ivan",
+      "dialog_node": "response_7_1556060435452",
+      "previous_sibling": "response_7_1556060346989"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1556060346989",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Beau is a teacher and coach for multiple teams at the IC."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:Beau",
+      "dialog_node": "response_7_1556060346989",
+      "previous_sibling": "response_9_1556060256845"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1556060662754",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tom Darcy helps with a lot of stuff and eats Asian food."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:(Tom Darcy)",
+      "dialog_node": "response_2_1556060662754",
+      "previous_sibling": "response_4_1556060584118"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_9_1556060808678",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I have no idea who that is, maybe you should talk to a real human"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1556060808678",
+      "previous_sibling": "response_4_1556060763312"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1556060472380",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jake is the aeronautics mentor."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:Jake",
+      "dialog_node": "response_7_1556060472380",
+      "previous_sibling": "response_7_1556060435452"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_4_1556060763312",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Proffesional development people are worker bees that do as we bid"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:(Professional development people)",
+      "dialog_node": "response_4_1556060763312",
+      "previous_sibling": "response_2_1556060662754"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1556060207401",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "patty is the head of innovation."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1556059628258",
+      "conditions": "@people:patty",
+      "dialog_node": "response_2_1556060207401"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_10_1555457679673",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The pitch room is on the top floor to the right of the elevator."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:(pitch room)",
+      "dialog_node": "response_10_1555457679673",
+      "previous_sibling": "response_2_1555457181626"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1555456692335",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There are multiple trash cans on the campus. You can find some in the hallways."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:(trash can)",
+      "dialog_node": "response_5_1555456692335",
+      "previous_sibling": "response_6_1555456661769"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1555456506344",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The HR department is not at the Innovation Center it is located at 395 S Prat Pkwy."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:hr",
+      "dialog_node": "response_5_1555456506344",
+      "previous_sibling": "response_4_1555456422030"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1555456661769",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The bus stop is located on the north side of the building."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:(bus stop)",
+      "dialog_node": "response_6_1555456661769",
+      "previous_sibling": "response_5_1555456506344"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_9_1555457241759",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I do not understand please ask my human handler."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1555457241759",
+      "previous_sibling": "response_10_1555457679673"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1555457181626",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The aerospace room is in the south west corner of the building."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:(aerospace room)",
+      "dialog_node": "response_2_1555457181626",
+      "previous_sibling": "response_5_1555456782668"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1555456782668",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The closest bathroom is located around the corner to the left."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:bathroom",
+      "dialog_node": "response_5_1555456782668",
+      "previous_sibling": "response_6_1555456748251"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1555456748251",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The robotics lab is the second room on the right from the entrance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:(robotics lab) || @people:Axel",
+      "dialog_node": "response_6_1555456748251",
+      "previous_sibling": "response_5_1555456692335"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_4_1555456422030",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Innovation Center is located at 33 Quail Rd. behind the rec center."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1555456386985",
+      "conditions": "@location:ic",
+      "dialog_node": "response_4_1555456422030"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_9_1556060884412"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "See ya later alligator"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "dialog_node": "node_9_1556060884412",
+      "previous_sibling": "node_9_1556059628258"
+    },
+    {
+      "type": "standard",
+      "title": "People",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#people",
+      "dialog_node": "node_9_1556059628258",
+      "previous_sibling": "node_4_1555456386985"
+    },
+    {
+      "type": "standard",
+      "title": "two intents",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "hello there, let me answer one questions"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings ||     #General_Ending",
+      "dialog_node": "node_10_1557269396646",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1556060148306",
+      "previous_sibling": "node_10_1557269396646"
+    },
+    {
+      "type": "standard",
+      "title": "Locations",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#locations",
+      "dialog_node": "node_4_1555456386985",
+      "previous_sibling": "node_9_1556060148306"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "workspace_id": "953f5042-b77c-4325-8c43-90dc93f78ce5",
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
